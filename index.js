@@ -10,7 +10,7 @@ function calculateTax(amount) {
 }
 console.log(calculateTax(100));
 console.log(calculateTax(0));
-console.log(calculateTax(-50));
+console.log(calculateTax(-5));
 console.log(calculateTax(10000000000000000000000000000000));
 
 //Function to convert to upper case
